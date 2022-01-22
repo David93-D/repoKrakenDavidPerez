@@ -4,3 +4,4 @@ davidperez
 (C) Benvinguda a la branca 02 David Perez
 (D) Modificació 02 Main David Perez
 (E) Afegim imatge a branca01.
+(F) Afegim imatge a branca02
